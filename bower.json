@@ -26,7 +26,7 @@
   ],
   "dependencies": { 
     "iron-localstorage": "PolymerElements/iron-localstorage#1.0.4",
-    "t-google-apis": "atomproject/t-google-apis#0.0.0", 
+    "t-google-apis": "atomelements/t-google-apis#0.0.0", 
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {
